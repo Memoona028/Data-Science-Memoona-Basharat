@@ -1,6 +1,6 @@
-# Data Science ByteWise Fellowships Tasks
+# Data Science ByteWise Fellowship Tasks
 
-Hi, my name is Memoona Basharat. This repository serves as a platform where I will be uploading my Data Science ByteWise Fellowships tasks for every week.
+Hi, my name is Memoona Basharat. This repository serves as a platform where I will be uploading my Data Science ByteWise Fellowship tasks for every week.
 
 ## WEEKLY TASK 2/3
 
