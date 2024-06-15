@@ -8,4 +8,4 @@ Hi, my name is Memoona Basharat. This repository serves as a platform where I wi
 - **Link to Medium Article for Branching & Merging**: [Branching & Merging](https://medium.com/@memoonabasharat23/branching-merging-git-52a2a50af0d4)
 
 ## WEEKLY TASK 3/3
--In this task, we learn about the basics of statistics, including mean, median, and mode.
+- In this task, we learn about the basics of statistics, including mean, median, and mode.
