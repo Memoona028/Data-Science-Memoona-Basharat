@@ -2,7 +2,7 @@
 
 Hi, my name is Memoona Basharat. This repository serves as a platform where I will be uploading my Data Science ByteWise Fellowship tasks for every week.
 
-## WEEKLY TASKS
+## WEEKLY TASKS - 1
 
 ### WEEKLY TASK 1/3
 - Definition of data science & basics of data: what it is, where we find it, and how we can use it in different ways.
@@ -18,4 +18,4 @@ Hi, my name is Memoona Basharat. This repository serves as a platform where I wi
 -  Basic statistics like mean, median, and mode, which help us to understand and analyze data better.
 - **Link to Medium Article for Branching & Merging**: [Basic Statistics](https://medium.com/@memoonabasharat23/basic-statistics-c1c05002f59e)
 
-D
+
