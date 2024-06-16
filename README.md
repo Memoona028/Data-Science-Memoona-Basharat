@@ -6,7 +6,7 @@ Hi, my name is Memoona Basharat. This repository serves as a platform where I wi
 
 ### WEEKLY TASK 1/3
 - Definition of data science & basics of data: what it is, where we find it, and how we can use it in different ways.
-- **Link to Medium Article** : [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/1-Introduction/README?wt.mc_id=studentamb_288336)
+- **Link to Medium Article** : [Starting with Data Science](https://medium.com/@memoonabasharat23/starting-with-data-science-e9c2c470f9a6)
  
 ### WEEKLY TASK 2/3
 - In this task we explored Git & GitHub basics, covering essential stages like modifying files, staging changes, and committing them. We also explored branching and merging, which are crucial for collaborative coding and project management. 
