@@ -18,4 +18,12 @@ Hi, my name is Memoona Basharat. This repository serves as a platform where I wi
 -  Basic statistics like mean, median, and mode, which help us to understand and analyze data better.
 - **Link to Medium Article for Branching & Merging**: [Basic Statistics](https://medium.com/@memoonabasharat23/basic-statistics-c1c05002f59e)
 
+### WEEKLY TASK 4
+- Python basics (variables, strings(built-in function),conditional statements and operators).
+### WEEKLY TASK 5
+- Python built-in Data Structures (Tuple, set, list, dictionary, etc.)
+### WEEKLY TASK 6
+- Getting started with OOP concepts (class,inheritance,encapsulation)
+### WEEKLY TASK 7
+- In this task, we had to explore **Remote Repository** in Git Topic 
 
